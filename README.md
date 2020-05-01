@@ -1,2 +1,2 @@
-# sample-pipeline-library
-sample pipeline library
+# simple-pipeline-library
+simple pipeline library
